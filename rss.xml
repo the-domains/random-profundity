@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Random Profundity]]></title>
         <description><![CDATA[Random Profundity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/random-profundity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 15:04:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 15:04:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/random-profundity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
+            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
+            <guid isPermaLink="false">7ddf3101-681a-4f83-b7d8-9f764f65c60d</guid>
+            <pubDate>Fri, 20 May 2016 15:04:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Super stylli: our pick of the finest (and most stylish) smart-pens.]]></title>
             <description><![CDATA[<article><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg"></article>]]></description>
