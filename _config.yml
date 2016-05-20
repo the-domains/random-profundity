@@ -1,0 +1,14 @@
+layout_spectrum: 0.9759776783175766
+typography_spectrum: 0.7252395930700004
+color:
+  brandStrength: 0.2552942156326026
+  lightness: 0.8896612240932882
+  saturation: 0.4315628909971565
+  rhythmicContrast: 0.07453156681731343
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Random Profundity
