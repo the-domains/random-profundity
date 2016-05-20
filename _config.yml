@@ -6,9 +6,9 @@ color:
   saturation: 0.4315628909971565
   rhythmicContrast: 0.07453156681731343
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Random Profundity
